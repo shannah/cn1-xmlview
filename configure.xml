@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!--build_version=2.9-->
+        
+<project name="CN1XMLView Configuration" default="configure" basedir=".">
+    <description>Configures the dependencies in this project</description>
+    <target name="configure" description="Configures the dependencies">
+        <get src="https://github.com/codenameone/cn1-binaries/raw/master/CLDC11.jar" dest="lib/CLDC11.jar" skipexisting="true"/>
+        <copy file="lib/CLDC11.jar" tofile="xmlview/lib/CLDC11.jar"/>
+        <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/CodeNameOneBuildClient.jar" dest="CodenameOneBuildClient.jar"/>
+        <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/JavaSE.jar" dest="JavaSE.jar"/>
+        <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/CodenameOne.jar" dest="lib/CodenameOne.jar"/>
+        <copy file="lib/CodenameOne.jar" tofile="xmlview/lib/CodenameOne.jar"/>
+        <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/CodenameOne_SRC.zip" dest="lib/CodenameOne_SRC.zip"/>
+        <copy file="lib/CodenameOne_SRC.zip" tofile="xmlview/lib/CodenameOne_SRC.zip"/>
+        
+        <propertyfile
+            file="codenameone_settings.properties"
+            comment="My properties">
+          <entry  key="file.reference.CodenameOne.jar" value="lib/CodenameOne.jar"/>
+          <entry  key="file.reference.JavaSE.jar-1" value="JavaSE.jar"/>
+        </propertyfile>
+    </target>
+
+</project>    
+    
