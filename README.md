@@ -16,7 +16,7 @@ Apache 2.0
 
 ## Installation
 
-Copy [xmlview.cn1lib](https://github.com/shannah/cn1-xmlview/blob/master/xmlview.cn1lib) into your project's "lib" directory and refresh libs.
+Copy [xmlview.cn1lib](https://github.com/shannah/cn1-xmlview/raw/master/xmlview.cn1lib) into your project's "lib" directory and refresh libs.
 
 ## Usage Example
 
