@@ -74,7 +74,7 @@ For rendering, this component doesn't traverse down the hierarchy of the XML doc
 ## Documentation
 
 * [Javadocs](http://shannah.github.io/cn1-xmlview/javadoc/index.html)
-* Styling Views (Under construction)
+* [Supported Tags](https://github.com/shannah/cn1-xmlview/wiki/Supported-Tags)
 * Creating Custom View Factories (Under construction)
 
 ## Building Form Source
