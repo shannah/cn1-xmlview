@@ -46,6 +46,25 @@ What it looks like:
 
 ![image](https://cloud.githubusercontent.com/assets/2677562/11411088/940b6dba-9381-11e5-9662-d9a486e51cb7.png)
 
+## How it Works
+
+This component will parse XML content that is provided to it (either from an XML string
+or a XML page URL), iterate through the top-level XML tags in the document, and for each tag, generate an appropriate view for it.  The generated views are laid out down the XMLView component vertically (using BoxLayout Y_AXIS).
+
+E.g.  Given the following XML:
+
+~~~~
+<?xml version="1.0"?>
+<doc>
+    <p>Hello World</p>
+    <img src="http://example.com/someimage.png"/>
+    <p>Goodbye World</p>
+</doc>
+~~~~
+
+The XMLView would render three views vertically.  The type of component returned, depends on the registered ViewFactory for that tag name.  The default editor kit uses a view factory that generates a SpanLabel component for each paragraph, and a Label for each image.  But you could easily register your own ViewFactory to generate a different component.
+
+
 ## Limitations
 
 This is not meant to be a full HTML renderer.  If you look at most "feed" type apps, like Facebook, Twitter, and the like, they don't perform complex page rendering.  They usually just display paragraph text, images, and videos in a responsive format, where images are all square, videos are 16x9, and both images and videos span the width of the parent component (and often the full device width).  That is the kind of thing that this component excels at.
