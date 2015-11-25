@@ -422,6 +422,16 @@
         <generateGuiSources srcDir="src" encoding="UTF-8" guiDir="res/guibuilder"  />
     </target>
 
+    <target name="configure" description="Configures the dependencies">
+        <get src="https://github.com/codenameone/cn1-binaries/raw/master/CLDC11.jar" dest="lib/CLDC11.jar"/>
+        <copy file="lib/CLDC11.jar" tofile="xmlview/lib/CLDC11.jar"/>
+        <get src="https://github.com/shannah/binaries/raw/master/cn1-common/CodeNameOneBuildClient.jar" dest="CodenameOneBuildClient.jar"/>
+        <get src="https://github.com/shannah/binaries/raw/master/cn1-common/JavaSE.jar" dest="JavaSE.jar"/>
+        <get src="https://github.com/shannah/binaries/raw/master/cn1-common/CodenameOne.jar" dest="lib/CodenameOne.jar"/>
+        <copy file="lib/CodenameOne.jar" dest="xmlview/lib/CodenameOne.jar"/>
+        <get src="https://github.com/shannah/binaries/raw/master/cn1-common/CodenameOne_SRC.zip" dest="lib/CodenameOne_SRC.zip"/>
+        <copy file="lib/CodenameOne_SRC.zip" dest="xmlview/lib/CodenameOne_SRC.zip"/>
+    </target>
 
     <target name="cn1lib">
         <delete dir="dist/xmlview"/>
