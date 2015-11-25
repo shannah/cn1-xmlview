@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<doc>
+    <body>
+        <p uiid="headline">Suspects detained in Belgium raids</p>
+        <p uiid="byline">Tuesday, November 24, 2015</p>
+        <p>Authorities in Belgium said police on Sunday and yesterday arrested 21 people suspected of connections with terrorism following more than twenty raids on Sunday evening and further searches yesterday in Belgium's capital Brussels and Belgian cities Charleroi and Liege. However, Salah Abdeslam, suspected of being part of the attacks in Paris on November 13, was not found.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Paris_Shootings_-_The_day_after_%2822593744177%29.jpg/800px-Paris_Shootings_-_The_day_after_%2822593744177%29.jpg"/>
+        <p uiid="caption">The aftermath of the attacks in Paris on November 13.</p>
+        <p>Police did not discover any guns or explosives in the raids, and Brussels remained in lockdown, with the maximum terror alert for the city. Prime Minister of Belgium Charles Michel said any possible attacks could involve "several individuals striking simultaneously in several places."</p>
+        <p>In response to the possibility of an attack, the Brussels Metro remained closed yesterday, schools and universities were also closed and police and soldiers patrolled the streets of Belgium's capital city. The search also continued for Salah Abdeslam in Belgium. During a television interview, Abdeslam's brother, Mohammed Abdeslam, encouraged Salah to surrender to the police.</p>
+        <p>Authorities planned to review of security yesterday to assess the level of security required in Brussels. Prime Minister Michel said he wants Brussels to return to normal: "we are doing everything we can to return to normality as soon as possible".</p>
+        
+        <carousel>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fiat_500_in_Emilia-Romagna.jpg"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Media_2011_Picture_%28Leg%29_Bhullar_Headshot.jpg/1024px-Media_2011_Picture_%28Leg%29_Bhullar_Headshot.jpg"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Andr%C3%A9s_Iniesta_Euro_2012_final.jpg"/>
+        </carousel>
+        
+        <p uiid="headline">Ferry MV Suilven sinks in Suva, Fiji</p>
+        <p uiid="byline">Tuesday, November 24, 2015</p>
+        <p>MV Suilven, a ferry in service in Fiji, capsized and sank in Suva Harbour today.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Stornoway_ferry_off_Ullapool_-_geograph.org.uk_-_1552974.jpg"/>
+        <p uiid="caption">MV Suilven off Scotland in 1979.</p>
+        <p uiid="caption">Image: Dr Neil Clifton.</p>
+        <p>Around thirty people, all crewmembers, were on board. Local media report all were rescued. The 41-year-old vessel previously saw service in Scotland and New Zealand.</p>
+        <p>The ship capsized early this afternoon and sank within an hour. It had been converted from passenger to cargo use following its most recent sale, to Venu Shipping in 2012 or 2011. Local reports indicated police, the Navy, local tug boats, and volunteer rescuers all attended the accident.</p>
+        <video src="http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4" poster="https://cloud.githubusercontent.com/assets/2677562/11408652/632521da-936f-11e5-9c91-d69e9f09030c.png"/>
+        
+        <p>The converted ferry reportedly began to list on entering the harbour. It was working a route carrying cargo between Suva and the Northern Division.</p>
+        <p>Built in Norway, in service from 1974, the ship served with Scottish ferry firm Caledonian MacBrayne until 1995, connecting the mainland town of Ullapool to Stornoway on the Isle of Lewis. It was ultimately replaced by a larger, faster vessel and was sold to Strait Shipping who used it until 2004 to ply New Zealand's seas, connecting Wellington to Picton and to Nelson.</p>
+        <p>The name MV Suilven is in reference to the Suilven mountain in Scotland's Sutherland region.</p>
+        
+        <p uiid="headline">Volkswagen emissions scandal may affect thousands more cars</p>
+        <p uiid="byline">Wednesday, November 4, 2015</p>
+        <p>The Volkswagen emissions scandal continued yesterday with the company announcing 800,000 mainly diesel vehicles may also be affected by carbon dioxide emissions problems.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG"/>
+        <p uiid="caption">A 2010 VW Golf TDI with "Clean Diesel", one of the cars affected by the scandal.
+Image: Mariordo Mario Roberto Duran Ortiz.</p>
+
+        <p>The company stated "the safety of the vehicles is in no way compromised". They estimated potentially this could cost them €2bn on top of the €6.7bn set aside to pay for the cost of correcting 11 million cars affected when the scandal broke, in addition to fines by regulators.</p>
+        <p>This follows Monday's revelation that the emissions scandal has affected up to 10,000 vehicles sold in the USA by brands in the Volkswagen group, although the company refutes the allegation. The United States Environmental Protection Agency (EPA), the regulatory body which has been investigating Volkswagen, claims the company fitted a number of recent Audi, Porsche, and Volkswagen models with technology that initiates secret components during emission tests to ensure the results are favourable.</p>
+        <p>The scandal began with damaging revelations that the car manufacturer has been using illegal software to enable diesel cars to cheat on mandatory emissions tests. This lead to a public apology on September 20 by then-chief executive Martin Winterkorn and the promise of an outside inquiry. He then resigned on September 23, and was replaced by Matthias Müller. The new allegation about Porsche is of particular concern for Müller, because he had previously been in charge of Porsche.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Martin_Winterkorn_2013-09-09_001.jpg"/>
+        <p uiid="caption">File photo of Martin Winterkorn who was CEO of Volkswagen when the scandal began.
+Image: Volkswagen Sweden.</p>
+
+        
+        <p>The company is expected to foot the bill for the recall of close to 500,000 VW and Audi cars affected at the time. There is also the possibility of Volkswagen having to pay federal fines of up to US$18 billion dollars because the US Clean Air Act sets a maximum fine of US$37,500 for each vehicle that contravenes the requirements of the Act.</p>
+        <p>An investigation into alleged breaches of environmental law was originally initiated on the advice of the International Council on Clean Transportation, a European non-governmental organisation. The EPA requested tests be carried out by West Virginia University, where the secret software was discovered.</p>
+        <p>The software, known as a "defeat device", enabled cars to identify when they were being tested and to switch on the emission control system. The devices may have been adding urea to the car exhaust because that would reduce the amount of nitrogen dioxide. The car would release a fraction of the nitrogen oxide compared to when they were being driven normally. Emissions of nitrogen oxide contribute to smog and are thought to have caused a rise in respiratory illnesses like asthma.</p>
+        
+    </body>
+</doc>
