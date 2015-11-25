@@ -19,7 +19,9 @@ Copy the `xmlview.cn1lib` into your project's "lib" directory and refresh libs.
 
 ## Example
 
-## Java Docs
+## Documentation
+
+[Javadocs](http://shannah.github.io/cn1-xmlview/javadoc/index.html)
 
 ## Building Form Source
 
