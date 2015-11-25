@@ -39,8 +39,8 @@ hi.show();
 
 ~~~~
 
-[Sample XML File](https://github.com/shannah/cn1-xmlview/blob/master/src/SampleNewsFeed.xml)
-[Sample App -- uses Cloudinary API for image resizing](https://github.com/shannah/cn1-xmlview/blob/master/src/com/codename1/demos/xmlview/XMLViewDemo.java)
+* [Sample XML File](https://github.com/shannah/cn1-xmlview/blob/master/src/SampleNewsFeed.xml)
+* [Sample App -- uses Cloudinary API for image resizing](https://github.com/shannah/cn1-xmlview/blob/master/src/com/codename1/demos/xmlview/XMLViewDemo.java)
 
 What it looks like:
 
