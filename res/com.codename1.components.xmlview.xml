@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <theme name="XMLView">
+        <val key="@includeNativeBool" value="false" />
+        <val key="CarouselView.margin" value="0,0,0,0" />
+        <val key="CarouselView.padding" value="0,0,0,0" />
+        <val key="ImageView.margin" value="0,0,0,0" />
+        <val key="ImageView.padding" value="0,0,0,0" />
+        <val key="ParagraphView.margin" value="0,0,0,0" />
+        <val key="ParagraphView.padUnit" value="2,2,2,2" />
+        <val key="ParagraphView.padding" value="1,1,1,1" />
+        <val key="ParagraphViewText.margin" value="0,0,0,0" />
+        <val key="ParagraphViewText.padding" value="0,0,0,0" />
+        <val key="VideoView.margin" value="0,0,0,0" />
+        <val key="VideoView.padding" value="0,0,0,0" />
+        <val key="XMLView.margin" value="0,0,0,0" />
+        <val key="XMLView.padding" value="0,0,0,0" />
+    </theme>
+</resource>

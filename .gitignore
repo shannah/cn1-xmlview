@@ -1,0 +1,9 @@
+dist
+build
+private
+.DS_Store
+CodeNameOneBuildClient.jar
+JavaSE.jar
+CLDC11.jar
+CodenameOne.jar
+CodenameOne_SRC.zip
