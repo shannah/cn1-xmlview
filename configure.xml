@@ -4,9 +4,9 @@
 <project name="CN1XMLView Configuration" default="configure" basedir=".">
     <description>Configures the dependencies in this project</description>
     <target name="configure" description="Configures the dependencies">
-        <get src="https://github.com/codenameone/cn1-binaries/raw/master/CLDC11.jar" dest="lib/CLDC11.jar" skipexisting="true"/>
+        <get src="https://github.com/shannah/binaries/raw/master/cn1-common/CLDC11.jar" dest="lib/CLDC11.jar" skipexisting="true"/>
         <copy file="lib/CLDC11.jar" tofile="xmlview/lib/CLDC11.jar"/>
-        <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/CodeNameOneBuildClient.jar" dest="CodenameOneBuildClient.jar"/>
+        <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/CodeNameOneBuildClient.jar" dest="CodeNameOneBuildClient.jar"/>
         <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/JavaSE.jar" dest="JavaSE.jar"/>
         <get skipexisting="true" src="https://github.com/shannah/binaries/raw/master/cn1-common/CodenameOne.jar" dest="lib/CodenameOne.jar"/>
         <copy file="lib/CodenameOne.jar" tofile="xmlview/lib/CodenameOne.jar"/>
